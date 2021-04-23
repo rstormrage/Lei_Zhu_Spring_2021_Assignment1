@@ -1,0 +1,14 @@
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 27.21.14.6589]
+    Renderer: NVIDIA GeForce RTX 2060
+    Vendor:   NVIDIA
+    VRAM:     -1 MB
+D3D: VRAM amount suspiciously low (less than 32MB for PS2.0 card)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+             Total Object count 2046 (Before unload 2006)
+Total Object count 145 (Before unload 303)
+Total Object count 144 (Before unload 145)
+Total Object count 2046 (Before unload 2024)
+Total Object count 145 (Before unload 303)
+Cleanup player
